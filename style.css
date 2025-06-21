@@ -10,9 +10,9 @@ header {
   background: url('Assets/MHC.jpg') center center / cover no-repeat;
   color: white;
   text-align: center;
-  padding: 3rem 1rem;
+  padding: 2rem 1rem;
   position: relative;
-  min-height: 300px;
+  min-height: 200px;
 }
 
 header::after {
