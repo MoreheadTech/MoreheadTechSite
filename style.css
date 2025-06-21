@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: url('assets/MHC.jpg') center center / cover no-repeat;
+  background: url('Assets/MHC.jpg') center center / cover no-repeat;
   color: white;
   text-align: center;
   padding: 3rem 1rem;
